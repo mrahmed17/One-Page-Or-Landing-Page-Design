@@ -32,7 +32,7 @@ Below are some screenshots of the template:
 
 **Our Team** ![10 Image-Team](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss10%20-%20our%20team.png)
 
-**Contact Us Form** ![11 Image-Contact-us](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss11%20-%20contact%20us.png)
+**Contact Us Form With Google Map** ![11 Image-Contact-us](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss11%20-%20contact%20us.png)
 
 **Footer** ![12 Image-footer](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss12%20-%20footer%20page.png)
 
