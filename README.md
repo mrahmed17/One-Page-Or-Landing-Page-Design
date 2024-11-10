@@ -3,7 +3,7 @@
 ## Description
 
 This one-page template features a clean and responsive design with sections
-suited for showcasing a portfolio, company information, services, and a contact
+suited for showcasing a portfolio, company information, services, and contact
 form. Key sections include a responsive navbar, a 4-image carousel, an "About"
 section, a "Portfolio" grid, and areas for "Services", "Our Team", and "Contact
 Us" with a Google Maps integration for easy navigation.
@@ -12,29 +12,29 @@ Us" with a Google Maps integration for easy navigation.
 
 Below are some screenshots of the template:
 
-**Carousel 1** ![1 Image-header1](**)
+**Carousel 1** ![1 Image-header1](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss1%20-%20carousel%201.png)
 
-**Carousel 2** ![2 Image-header2](**)
+**Carousel 2** ![2 Image-header2](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss2%20-%20carousel%202.png)
 
-**Carousel 3** ![3 Image-header3](**)
+**Carousel 3** ![3 Image-header3](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss3%20-%20carousel%203.png)
 
-**Carousel 4** ![4 Image-header4](**)
+**Carousel 4** ![4 Image-header4](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss4%20-%20carousel%204.png)
 
-**About 1** ![5 Image-About1](**)
+**About 1** ![5 Image-About1](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss5%20-%20about%201.png)
 
-**About 2** ![6 Image-About2](**)
+**About 2** ![6 Image-About2](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss6%20-%20about%202.png)
 
-**Portfolio 1** ![7 Image-Portfolio1](**)
+**Portfolio 1** ![7 Image-Portfolio1](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss7%20-%20portfolio%201.png)
 
-**Portfolio 2** ![8 Image-Portfolio2](**)
+**Portfolio 2** ![8 Image-Portfolio2](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss8%20-%20portfolio%202.png)
 
-**Services** ![9 Image-Service](**)
+**Services** ![9 Image-Services](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss9%20-%20service.png)
 
-**Our Team** ![10 Image-Team](**)
+**Our Team** ![10 Image-Team](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss10%20-%20our%20team.png)
 
-**Contact Us Form** ![11 Image-Contact](**)
+**Contact Us Form** ![11 Image-Contact-us](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss11%20-%20contact%20us.png)
 
-**Footer** ![12 Image-footer](**)
+**Footer** ![12 Image-footer](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss12%20-%20footer%20page.png)
 
 ## Features
 
@@ -96,7 +96,7 @@ For any questions or feedback, contact
 ## Full Template View
 
 - **Full Template Screenshots:**
-![Full Web Page](**)
+![Full Web Page](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss13%20-%20Full%20Web%20Page%20View.jpeg)
 
 - **Template Video:**
-![Full Web Page Video](**)
+![Full Web Page Video](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/One%20Page%20Template%20Overview.wmv)
