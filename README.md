@@ -59,7 +59,10 @@ Below are some screenshots of the template:
 ## Full Template Video
 
 - **Template Video:**
-[![One Page Template Overview](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/Thumbnail.jpg)](https://youtu.be/a1oremTsyDI)
+  <a href="https://youtu.be/a1oremTsyDI">
+      <img src="https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/Thumbnail.jpg" alt="One Page Template Overview" width="400">
+  </a>
+
 
 
 
