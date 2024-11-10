@@ -36,6 +36,14 @@ Below are some screenshots of the template:
 
 **Footer** ![12 Image-footer](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss12%20-%20footer%20page.png)
 
+## Full Template Video
+
+- **Template Video:**
+  <a href="https://youtu.be/a1oremTsyDI">
+      <img src="https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/Thumbnail.jpg" alt="One Page Template Overview" width="400">
+  </a>
+
+
 ## Features
 
 - **Responsive Design:** Mobile-friendly and adapts to various screen sizes.
@@ -50,13 +58,6 @@ Below are some screenshots of the template:
 - **Google Map Integration:** Quick-access Google Maps location view.
 - **Footer with Contact Details:** Includes essential contact info and comment
   section.
-
-## Full Template Video
-
-- **Template Video:**
-  <a href="https://youtu.be/a1oremTsyDI">
-      <img src="https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/Thumbnail.jpg" alt="One Page Template Overview" width="400">
-  </a>
 
 
 ## Installation
