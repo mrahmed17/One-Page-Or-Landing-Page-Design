@@ -59,7 +59,7 @@ Below are some screenshots of the template:
 ## Full Template Video
 
 - **Template Video:**
-[![One Page Template Overview](![image](https://github.com/user-attachments/assets/2cfed6cc-5ddd-4380-9823-4c6ba5216352))](https://youtu.be/a1oremTsyDI)
+[![One Page Template Overview](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss1%20-%20carousel%201.png)](https://youtu.be/a1oremTsyDI)
 
 
 
