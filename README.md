@@ -51,6 +51,14 @@ Below are some screenshots of the template:
 - **Footer with Contact Details:** Includes essential contact info and comment
   section.
 
+## Full Template View
+
+- **Full Template Screenshots:**
+![Full Web Page](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss13%20-%20Full%20Web%20Page%20View.jpeg)
+
+- **Template Video:**
+![Full Web Page Video](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/One%20Page%20Template%20Overview.wmv)
+
 ## Installation
 
 To use this template:
@@ -93,10 +101,3 @@ For any questions or feedback, contact
 [mrahmed1796@gmail.com](mailto:mrahmed1796@gmail.com) or open an issue on
 [GitHub](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/).
 
-## Full Template View
-
-- **Full Template Screenshots:**
-![Full Web Page](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss13%20-%20Full%20Web%20Page%20View.jpeg)
-
-- **Template Video:**
-![Full Web Page Video](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/One%20Page%20Template%20Overview.wmv)
