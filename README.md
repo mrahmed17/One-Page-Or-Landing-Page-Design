@@ -59,8 +59,8 @@ Below are some screenshots of the template:
 ## Full Template Video
 
 - **Template Video:**
+[![One Page Template Overview](https://img.youtube.com/vi/ss1%20-%20carousel%201.png)](https://youtu.be/a1oremTsyDI)
 
-[![One Page Template Overview](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss1%20-%20carousel%201.png)](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/One%20Page%20Template%20Overview.wmv)
 
 
 ## Installation
