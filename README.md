@@ -56,8 +56,12 @@ Below are some screenshots of the template:
 - **Full Template Screenshots:**
 ![Full Web Page](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss13%20-%20Full%20Web%20Page%20View.jpeg)
 
+## Full Template Video
+
 - **Template Video:**
-![Full Web Page Video](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/One%20Page%20Template%20Overview.wmv)
+
+[![One Page Template Overview](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss1%20-%20carousel%201.png)](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/One%20Page%20Template%20Overview.wmv)
+
 
 ## Installation
 
