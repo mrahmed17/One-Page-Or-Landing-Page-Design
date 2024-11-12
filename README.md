@@ -67,7 +67,7 @@ To use this template:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design.git
+    gh repo clone mrahmed17/One-Page-Or-Landing-Page-Design
    ```
 
 2. **Navigate to the Project Directory:**
