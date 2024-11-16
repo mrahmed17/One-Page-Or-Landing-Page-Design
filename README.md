@@ -8,6 +8,22 @@ form. Key sections include a responsive navbar, a 4-image carousel, an "About"
 section, a "Portfolio" grid, and areas for "Services", "Our Team", and "Contact
 Us" with a Google Maps integration for easy navigation.
 
+## Features
+
+- **Responsive Design:** Mobile-friendly and adapts to various screen sizes.
+- **Customizable Layout:** Easily modified with HTML and CSS.
+- **Cross-Browser Compatibility:** Works across major web browsers.
+- **Interactive Elements:** Smooth scrolling and animated transitions.
+- **Carousel & Grid Layouts:** Display images with a 4-image carousel and grid
+  layout.
+- **About & Portfolio Sections:** Introduce your organization and showcase your
+  work.
+- **Callback Form:** Integrated form for user inquiries and callback requests.
+- **Google Map Integration:** Quick-access Google Maps location view.
+- **Footer with Contact Details:** Includes essential contact info and comment
+  section.
+
+
 ## Screenshots
 
 Below are some screenshots of the template:
@@ -42,22 +58,6 @@ Below are some screenshots of the template:
   <a href="https://youtu.be/a1oremTsyDI">
       <img src="https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/Thumbnail.jpg" alt="One Page Template Overview" width="400">
   </a>
-
-
-## Features
-
-- **Responsive Design:** Mobile-friendly and adapts to various screen sizes.
-- **Customizable Layout:** Easily modified with HTML and CSS.
-- **Cross-Browser Compatibility:** Works across major web browsers.
-- **Interactive Elements:** Smooth scrolling and animated transitions.
-- **Carousel & Grid Layouts:** Display images with a 4-image carousel and grid
-  layout.
-- **About & Portfolio Sections:** Introduce your organization and showcase your
-  work.
-- **Callback Form:** Integrated form for user inquiries and callback requests.
-- **Google Map Integration:** Quick-access Google Maps location view.
-- **Footer with Contact Details:** Includes essential contact info and comment
-  section.
 
 
 ## Installation
