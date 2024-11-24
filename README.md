@@ -59,6 +59,11 @@ Below are some screenshots of the template:
       <img src="https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/Thumbnail.jpg" alt="One Page Template Overview" width="400">
   </a>
 
+## Full Template View
+
+- **Full Template Screenshots:**
+![Full Web Page](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss13%20-%20Full%20Web%20Page%20View.jpeg)
+
 
 ## Installation
 
@@ -102,8 +107,3 @@ For any questions or feedback, contact
 [mrahmed1796@gmail.com](mailto:mrahmed1796@gmail.com) or open an issue on
 [GitHub](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/).
 
-
-## Full Template View
-
-- **Full Template Screenshots:**
-![Full Web Page](https://github.com/mrahmed17/One-Page-Or-Landing-Page-Design/blob/main/screenshotAndVideo/ss13%20-%20Full%20Web%20Page%20View.jpeg)
