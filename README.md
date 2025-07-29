@@ -1,4 +1,9 @@
 # One-Page Web Template
+# GitHub Link:
+https://mrahmed17.github.io/One-Page-Or-Landing-Page-Design/
+
+# Live Link:
+https://landing-page-design-gamma.vercel.app/
 
 ## Description
 
